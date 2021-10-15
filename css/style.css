@@ -1,0 +1,34 @@
+img {
+
+    height: 550px !important;
+width: 850px !important;
+
+}
+
+a {
+
+color: white ;
+text-decoration: underline;
+
+
+}
+
+a:hover {
+
+color: rgba(245, 245, 245, 0.87) !important;
+
+
+}
+
+#a {
+
+color: blue !important;
+
+}
+
+#a:hover {
+
+color: rgb(15, 0, 153) !important;
+
+
+}
